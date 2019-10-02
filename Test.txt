@@ -1,0 +1,22 @@
+Problem Title:Wastewater managment
+
+Problem Description:
+Waterbeing a very important and crucial natural resource it is used to give an attention towards optimum use of water and minimum waste.currently we can see system of water supply are having many issues and leakage of water is major issue.Since water supply need to get an updated as there is a scope of being smart in watermanagment so that most of the issue of system can be solved and timely.Water resources in India are exhausting due to increase in population and water consumption in urban areas.
+For example in India we have so many industries, which needs more consumption of water for their use and for that they will use natural resources like rivers,oceans 
+etc.And for disposal of waste water from the industries,they will use natural resources only.from this activity of the industries natural resources of the water gets poluted.Normal people use that water only for the daily usage.From this people get so many diseases,and some of them may not be curable.
+
+Proposed Solution:
+Wastewater treatment is the process of cleaning the sewage and domestic water by removing the contaminants in the form of organic matter.From this we can improve the quality of the water so that we can make use of that water for humans need,animals and other purposes also.
+If we consider the case of Industries they need more water,So we can convert the waste water from the industries into an effluent that can be recycled with minimum
+impact on the environment.That treated water we can use for the Industrial purpose instead of using natural resources for the Industrial need.And we can use for other
+purpose, like agriculture,horticulture,animal husbandry etc.We can save some amout of water from the natural resources.
+
+There are three stages in treating the waste water,they are:Biological water treatment,Physical water treatment,and Chemical water Treatment.
+In biological treatment,microorganisms especially bacteria play an important role.They decompose the wastewater biochemically or they break the organic material and improve the quality of the water.
+In physical treatment physical methods are used to clean the Wastewater,and the methods are sedimentation,aeration,and filtration.Sedimentation is a process of
+suspending out the insoluble heavy particles from the Wastewater.In aeration process air is circulated throughout the water to provide oxygen to it.Filtration is used filter the contaminants.
+In Chemical treatment chemicals are used.Most commonly used chemicals are chlorine and ozone.These chemicals disallow the bacteria to reproduce in the water thus making the water pure.
+For treatment of industrial wastewater,the special method called neutralization is used.
+We can use UV radiation to treat the wastewater,and it is an environmentally friendly method.It uses no chemicals,with no added chlorine or ozone.UV light destroy the microorganisms such as bacteria,viruses and parasites and helps to decompose the chemicals which are harmful to health.  
+
+
